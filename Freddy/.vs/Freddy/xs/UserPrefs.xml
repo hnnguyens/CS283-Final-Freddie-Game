@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F4F9CC2B-42C3-6A03-1E27-B91BDDF10EA8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMotionController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FirstPersonCamera.cs" Line="14" Column="9" />
+      <File FileName="Assets/Scripts/PlayerMotionController.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/FreddieBehavior.cs" />
+      <File FileName="Assets/Scripts/FishCollectionGame.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Freddy" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayerMotionController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="708a999b-8df7-4c5a-b4e2-b177babb5a9f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
