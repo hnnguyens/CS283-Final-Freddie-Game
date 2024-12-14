@@ -2,6 +2,7 @@
 Game Programming Final Project
 
 FINAL PROJECT: FREDDIE GAME
+
 How to Play:
 Collect the fish and don't let Freddie catch you! Explore the apartment, but be warned as Freddie gets faster as the time increases. Click R to restart and Q to quit. The space bar will toggle the instruction box on or off if you forget the rules! If you complete the level, you can try to beat your previous time :) 
 
