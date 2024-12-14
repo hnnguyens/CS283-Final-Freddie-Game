@@ -40,7 +40,7 @@ public class FishCollectionGame : MonoBehaviour
                 SceneManager.LoadScene(SceneManager.GetActiveScene().name);
             }
 
-            if (Input.GetKeyDown(KeyCode.Q)) //quit game 
+            if (Input.GetKeyDown(KeyCode.Escape)) //quit game 
             {
                 print("Application quit");
                 Application.Quit();
